@@ -1,0 +1,167 @@
+.App { 
+  display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 40px;
+  
+  }
+
+.card {
+  width: 312px;
+height: 400px;
+background-color: #FFFFFF;
+border-radius: 10px;
+}
+
+main h2 {
+  color: #061136;
+  font-weight: 500;
+font-size: 15px;
+line-height: 20px;
+position: relative;
+right: 57px;
+top: 28px;
+}
+
+body {
+  background-color: black;
+
+}
+
+.card2 {
+  color: #061136;
+  font-weight: 500;
+font-size: 15px;
+position: relative;
+right: 85px;
+top: 15px;
+
+}
+
+main p {
+  color: #061136;
+
+  width: 92px;
+height: 20px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+position: relative;
+left: 30px;
+top: 15px;
+}
+
+.bbb {
+  color: #061136;
+  font-size: 15px;
+  font-family: 'Inter';
+font-style: normal;
+position: relative;
+top: -22px;
+left: -1px;
+}
+
+.lll {
+  font-size: 15px;
+  position: relative;
+  left: -8px;
+  top: -37px;
+  font-family: 'Inter';
+font-style: normal;
+color: #061136;
+}
+.ddd {
+  font-size: 15px;
+ position: relative;
+  left: -105px;
+  top: -50px;
+  font-family: 'Inter';
+font-style: normal;
+color: #061136;
+}
+
+.london h2 {
+  color: #061136;
+  font-weight: 500;
+font-size: 15px;
+line-height: 20px;
+position: relative;
+right: 45px;
+top: -40px;
+}
+
+.love1 {
+  position: relative;
+  top: -30px;
+  left: -8px;
+  width: 130px;
+}
+
+.aaa {
+  font-size: 10px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  position: relative;
+  top: -85px;
+  left: 7px;
+}
+
+.fff {
+  font-size: 10px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  position: relative;
+  top: -78px;
+  left: 7px;
+}
+
+.ggg {
+  font-size: 10px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  position: relative;
+  top: -70px;
+  left: 7px;
+}
+
+.hhh {
+  color: red;
+  position: relative;
+  top: -196px;
+  left: 170px;
+}
+
+
+.jjj {
+  color: red;
+  position: relative;
+  top: -196px;
+  left: 170px;
+}
+
+.kkk {
+  color: red;
+  position: relative;
+  top: -197px;
+  left: 170px;
+}
+
+.zzz {
+  color: rgb(31, 29, 29);
+  position: relative;
+  top: -569px;
+  left: 160px;
+  font-size: 11px;
+}
+
+.logo {
+  position: relative;
+  top: -593px;
+  left: 190px;
+}
+
